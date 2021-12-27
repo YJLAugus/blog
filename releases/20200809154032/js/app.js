@@ -107,7 +107,7 @@ webpackJsonp([1], {
                 }, {
                     name: "咦~",
                     path: o + "/img/face/bili/",
-                    maxNum: 50,
+                    maxNum: 24,
                     file: ".webp",
                     placeholder: "#bili_{alias}#"
                 }],
