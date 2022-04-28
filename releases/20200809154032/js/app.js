@@ -28,7 +28,7 @@ webpackJsonp([1], {
         var n = i("7+uW"),
             s = i("woOf"),
             a = i.n(s),
-            o = "https://cdn.jsdelivr.net/gh/YJLAugus/blog@1.4",
+            o = "https://cdn.jsdelivr.net/gh/YJLAugus/blog@1.5",
             r = {
                 openDev: !1,
                 blogAcc: "cjunn",
