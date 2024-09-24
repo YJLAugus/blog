@@ -28,7 +28,7 @@ webpackJsonp([1], {
         var n = i("7+uW"),
             s = i("woOf"),
             a = i.n(s),
-            o = "https://cdn.jsdelivr.net/gh/YJLAugus/blog@1.5",
+            o = "https://yjlaugus.gitee.io/blog",
             r = {
                 openDev: !1,
                 blogAcc: "cjunn",
@@ -83,7 +83,7 @@ webpackJsonp([1], {
                 headBackImg: "https://cjunn.gitee.io/blog_theme_atum/img/ing/autorbimg.jpg",
                 bigBackImg: "https://cjunn.gitee.io/blog_theme_atum/img/body/background.jpg",
                 aboutmeHtml: "<img src='https://cjunn.gitee.io/blog_theme_atum/img/ing/aboutme.jpg'/>",
-				aboutCouple: "<div class='textwidget'><div id='love' style='width: 100%; height: 100px; text-align: center; font-size: 1rem;'> <div id='lovenyhImage' style='width: 220px; margin: 0 auto;'><a href='https://yjlaugus.gitee.io/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/ll.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='https://yjlaugus.gitee.io/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/z.webp' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='https://yjlaugus.gitee.io/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/nn.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a></div><p id='elapseClock' style='font-size: 0.8rem;    margin-top: 16px;  background: linear-gradient(to right, red, blue);-webkit-background-clip: text;color: transparent;'>博客运行(刷新页面看天数呀)</p></div></div>",
+				aboutCouple: "<div class='textwidget'><div id='love' style='width: 100%; height: 100px; text-align: center; font-size: 1rem;'> <div id='lovenyhImage' style='margin: 0 auto;'><a href='#' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/girl.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='#' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/z.webp' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='#' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/boy.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a></div><p id='elapseClock' style='font-size: 0.8rem;    margin-top: 16px;  background: linear-gradient(to right, red, blue);-webkit-background-clip: text;color: transparent;'>我们相恋(刷新页面看天数呀)</p></div></div>",
                 blogUrlPre: "https://www.cnblogs.com/",
 					faceIcon: [{
                     name: "头条",
