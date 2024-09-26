@@ -189,7 +189,7 @@ webpackJsonp([1], {
             C = i("/ocq"),
             y = function(t) {
                 var e = function(t) {
-                    var e = [new RegExp("^/" + g.blogAcc + "/p/(.+)?.html"), new RegExp("^/" + g.blogAcc + "/category/(.+)?.html"),new RegExp("^/" + g.blogAcc + "/p/(.+)?/")];
+                    var e = [new RegExp("^/" + g.blogAcc + "/p/(.+)?.html"), new RegExp("^/" + g.blogAcc + "/category/(.+)?.html")];
                     for (var i in e)
                         if (e[i].test(t)) return "/subject" + t.replace("/" + g.blogAcc, "")
                 }(window.location.pathname);
